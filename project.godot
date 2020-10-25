@@ -16,8 +16,15 @@ _global_script_class_icons={
 [application]
 
 config/name="IDLEClickerGame"
-run/main_scene="res://Scenes/store.tscn"
+run/main_scene="res://Scenes/Main.tscn"
 config/icon="res://icon.png"
+
+[importer_defaults]
+
+csv_translation={
+"compress": true,
+"delimiter": 0
+}
 
 [rendering]
 

@@ -1,0 +1,16 @@
+{
+"Store1": {
+"StoreName": "Lemonade Stand",
+"StoreCost": 5,
+"StoreProfit": 1,
+"ManagerCost": 25,
+"StorePic": "store.png"
+},
+"Store2": {
+"StoreName": "Hotel",
+"StoreCost": 10,
+"StoreProfit": 5,
+"ManagerCost": 225,
+"StorePic": "hotel.png"
+},
+}
